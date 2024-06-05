@@ -7,7 +7,7 @@ QA engineer
 I am a junior software quality specialist with experience in testing open source projects. I used to work in a bank, but I want to change careers. I am sure that my experience as a banker, where every detail matters, will help me successfully analyze and test the software, ensuring its quality and reliability. My ability to learn quickly, high efficiency, analytical mindset and desire for continuous improvement will help me to perform my tasks effectively. I will be glad to communicate and possible cooperation!
 
 * 🏠  I'm based in Russia,Omsk.Ready for relocation.
-* 📧  You can contact me at [basuchello00h@gmail.com](mailto:basuchello00@gmail.com)
+* 📧  You can contact me at [basuchello00@gmail.com](mailto:basuchello00@gmail.com)
 
 
 Issues created by me: https://friends.hexlet.io/contributors/mrBasyuk/issues/
